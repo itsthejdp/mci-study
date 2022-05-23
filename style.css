@@ -1,0 +1,55 @@
+/* ELEMENTS */
+/* ID SELECTORS */
+/* CLASS SELECTORS */
+.button {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.floated-area {
+  padding: 0 0 0 0;
+  margin: 0 150px 0 0;
+}
+
+.map {
+  cursor: pointer;
+}
+
+.media-area {
+  margin-right: 25px;
+}
+
+.next-steps {
+  background-color: navy;
+  color: white;
+  text-align: center;
+  padding: 25px 25px 50px 25px;
+}
+
+.next-steps-text {
+  padding-bottom: 25px;
+}
+
+.text-area {
+  margin-right: 50px;
+}
+
+.text-steps {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.shit {
+  padding-right: 100px;
+}
+
+.grandma-gym {
+  float: right;
+  margin-left: 25px;
+}
